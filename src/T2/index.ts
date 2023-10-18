@@ -1,6 +1,7 @@
 import { kArrayFunc } from "./ArrayExtend";
 import { kMapFunc } from "./MapExtend";
 export function funcT2() {
+    console.log("-------------------第二题----------------------");
     let a1 = [3, 2, 3];
     let a2 = [1, 2, 3, 4, 5, 6];
     let a3 = [[1, 2], [[3, 4], 5], 6];
